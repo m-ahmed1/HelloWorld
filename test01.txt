@@ -1,1 +1,5 @@
 New File
+<<<<<<< HEAD
+=======
+changed from GitHub
+>>>>>>> pasta
